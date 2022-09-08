@@ -1,0 +1,3 @@
+[submodule "metadataFreeBSD_releng12.3"]
+	path = metadataFreeBSD_releng12.3
+	url = https://github.com/josemacan/metadataFreeBSD_releng12.3.git

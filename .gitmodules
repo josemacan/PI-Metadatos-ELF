@@ -4,3 +4,6 @@
 [submodule "metadataFreeBSD_releng13"]
 	path = metadataFreeBSD_releng13
 	url = https://github.com/josemacan/metadataFreeBSD_releng13.git
+[submodule "ELFBag"]
+	path = ELFBag
+	url = https://github.com/josemacan/ELFBag
